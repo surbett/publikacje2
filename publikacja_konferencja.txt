@@ -1,14 +1,18 @@
 Publikacja nr 1
 
 Tytul: Publikacja o fizyce
-Autor: Stanislaw Kowalski, Ewa Zajac
+Autor: Stanislaw Kowalski, Ewa Zajac, Janek Kowalski
 
 Abstrakt:
 Do napisania pozniej
 
 Dane:
-jeszcze ich nie ma
+Nasze wpsolne dane
+
 Analiza
+
 Wnioski
-Bibliografia:
-...
+
+(tu pisze Janek)
+Bibliografia
+
