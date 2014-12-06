@@ -1,12 +1,18 @@
 Publikacja nr 1
 
 Tytul: Publikacja o fizyce
-Autor: Ewa Zając
+Autor: Ewa Zając, Janek Kowalski
 
 Abstrakt:
 Do napisania pozniej
 
-Dane
+Dane:
+
+Nasze wpsolne dane
+
 Analiza
+lo
+
 Wnioski
+(tu pisze Janek)
 Bibliografia
