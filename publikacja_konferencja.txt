@@ -1,6 +1,7 @@
 Publikacja nr 1
 
-Tytul
-Autor
+Tytul: Publikacja o fizyce
+Autor: Ewa Zając
 
-Abstrakt
+Abstrakt:
+Do napisania pozniej
